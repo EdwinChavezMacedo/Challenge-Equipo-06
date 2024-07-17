@@ -1,0 +1,133 @@
+# EQUIPO 6
+
+## CREACIÓN DE CONTENIDO CON CHAT GPT
+
+### SELECCIÓN DE PROYECTO
+Desarrollar y actualizar el contenido para un sitio web, el cual se enfoca en la venta y fabricación de equipos electrónicos para eventos de audio.
+
+Los resultados de este proyecto serán la creación y actualización de 3 diferentes páginas:
+- Landing Page
+- Página de Producto
+- Artículo de Blog
+
+### EXPLORACIÓN PREVIA
+Se utilizó de base 2 páginas particularmente que venden productos como los que se quieren promocionar:
+- [melosoundofmusic.com.mx](http://melosoundofmusic.com.mx)
+- [la bgruppen.com](http://www.la%20bgruppen.com)
+
+### DRAFT DE CONTENIDO
+El objetivo principal del proyecto es mostrar con claridad a lo que la empresa se dedica en la actualidad, agregando un toque fresco a la página principal con ayuda de la inteligencia artificial, así mismo elegir la estructura correcta para el landing page del sitio web. Los puntos principales a destacar son:
+- Destacar los productos estrellas desde la página de inicio.
+- Resumir la información técnica y presentar información de forma clara.
+- La página de productos debe contar con la información sintetizada.
+- Presentar el contenido de forma atractiva, destacando lo visual frente a la información.
+- En el caso de la sección de blogs, intentar graficar la manera en la que se presenta la información a los usuarios.
+
+### PÁGINAS DE APOYO
+- **ChatGPT**: Para la creación de descripciones o información para los banners del sitio, así como el contenido del Blog, también para pulir la manera en la que se presenta el producto.
+- **Envato**: Para conseguir material visual profesional.
+- **Bing + Copilot**: Para la creación de imágenes desde cero.
+
+### PROMPTS UTILIZADOS:
+
+#### PÁGINA DE INICIO:
+
+##### Prompt:
+Eres un experto en creación de páginas web, te estoy contratando por tus conocimientos y consejos, ya que deseo crear una página atractiva. Para iniciar me gustaría saber ¿Qué contenido aconsejas mostrar en un landing page o página de inicio de un sitio que se dedica a crear y fabricar equipos electrónicos para la industria del audio?
+
+##### Respuesta:
+Para crear una landing page o página de inicio atractiva y efectiva para una empresa que fabrica equipos electrónicos para la industria del audio, te recomiendo incluir los siguientes elementos:
+
+1. **Encabezado Impactante (Hero Section):**
+   - Imagen o Video de Alta Calidad: Una imagen o video llamativo de tus productos en uso, mostrando su calidad y sofisticación.
+   - Título Claro y Conciso: Un título que comunique claramente lo que ofreces. Ejemplo: "Innovación en Equipos de Audio Profesional".
+   - Subtítulo Atractivo: Un subtítulo que resuma tus principales ventajas. Ejemplo: "Diseño y Fabricación de Equipos de Audio de Alta Fidelidad para Profesionales".
+
+2. **Propuesta de Valor Clara:**
+   - Texto Breve: Explica en pocas palabras por qué tus productos son únicos y cómo solucionan los problemas de tus clientes.
+   - Bullet Points: Resalta las características principales y beneficios de tus equipos (por ejemplo, calidad de sonido, durabilidad, innovación tecnológica).
+
+3. **Llamadas a la Acción (CTA):**
+   - Botones Visibles: Coloca botones que inviten a la acción, como "Descubre Nuestros Productos", "Solicita una Demostración", o "Contáctanos".
+   - Posicionamiento Estratégico: Asegúrate de que los CTA estén bien posicionados para que sean visibles sin tener que desplazarse mucho.
+
+4. **Presentación de Productos:**
+   - Sección de Productos Destacados: Muestra tus productos más populares o recientes con imágenes, descripciones breves y enlaces a más detalles.
+   - Categorías de Productos: Si tienes una amplia gama de productos, presenta categorías para facilitar la navegación.
+
+5. **Testimonios y Casos de Éxito:**
+   - Comentarios de Clientes: Incluye opiniones de clientes satisfechos y profesionales de la industria.
+   - Casos de Estudio: Presenta ejemplos concretos de cómo tus productos han sido utilizados exitosamente por tus clientes.
+
+6. **Sección de Video o Demostración:**
+   - Videos de Producto: Videos cortos que muestren tus productos en acción, destacando sus características y ventajas.
+   - Demostraciones en Vivo: Ofrece la opción de ver demostraciones en vivo o pregrabadas.
+
+7. **Certificaciones y Premios:**
+   - Logos y Símbolos: Muestra certificaciones de calidad, premios y reconocimientos que tu empresa o productos hayan recibido.
+
+8. **Información sobre la Empresa:**
+   - Historia y Misión: Breve resumen de la historia de tu empresa, misión y visión.
+   - Equipo de Trabajo: Presenta a los miembros clave de tu equipo con fotos y breves biografías.
+
+9. **Blog o Noticias:**
+   - Artículos Recientes: Muestra artículos de blog o noticias relevantes de la industria del audio y de tu empresa.
+   - Enlaces a Más Contenido: Permite a los visitantes explorar más contenido de interés.
+
+10. **Footer Completo:**
+    - Enlaces Rápidos: Incluye enlaces a secciones importantes de tu sitio como productos, blog, contacto, etc.
+    - Información de Contacto: Detalles de contacto, dirección, y enlaces a redes sociales.
+    - Formulario de Suscripción: Opción para que los visitantes se suscriban a tu boletín informativo.
+
+##### Texto para Servoreguladores Rino-60 y Leo-60:
+
+###### Prompt:
+Crea un breve texto donde mencionemos que ya está disponible de nuevo nuestro servo regulador Rino-60 y Leo-60, no te pierdas la oportunidad de hacerte con el tuyo y proteger tus equipos de las variaciones de voltaje que puede dañar tus sistemas de audio.
+
+###### Respuesta:
+¡Buenas noticias! 🎉 Ya están disponibles nuevamente nuestros servoreguladores Rino-60 y Leo-60. No te pierdas la oportunidad de hacerte con el tuyo y proteger tus equipos de las variaciones de voltaje que pueden dañar tus sistemas de audio. Mantén tu sonido siempre al máximo nivel y sin interrupciones. 🔌🔊 ¡Asegura la durabilidad y rendimiento de tus equipos con Rino-60 y Leo-60! #BUNKER #Rino60 #Leo60 #ProtecciónDeVoltaje #CalidadGarantizada
+
+#### PRODUCTO
+
+##### Prompt:
+Eres un experto creador de páginas web, estoy armando un sitio de ecommerce. ¿Cómo me recomiendas presentar mi producto para que sea atractivo frente a los usuarios y visitantes?
+
+##### Respuesta:
+Para crear una página de producto atractiva y efectiva en un sitio de ecommerce, es crucial enfocarse en una presentación que destaque tanto la calidad del producto como la experiencia del usuario. Aquí tienes algunos consejos y elementos clave que deberías considerar:
+
+1. **Imágenes de Alta Calidad:**
+   - Galería de Imágenes: Incluye múltiples fotos del producto desde diferentes ángulos y en diferentes contextos. Asegúrate de que las imágenes sean de alta resolución.
+   - Zoom: Permite a los usuarios hacer zoom en las imágenes para ver los detalles.
+   - Videos: Agrega videos cortos mostrando el producto en uso, destacando sus características y beneficios.
+
+2. **Descripción Detallada:**
+   - Título Claro y Atractivo: Un título que describa el producto de manera precisa y atractiva.
+   - Descripción Completa: Una descripción detallada que incluya información sobre las características, beneficios, y posibles usos del producto. Usa un lenguaje claro y persuasivo.
+   - Especificaciones Técnicas: Proporciona todas las especificaciones técnicas relevantes en una lista fácil de leer.
+
+3. **Características y Beneficios:**
+   - Listas de Bullet Points: Usa listas para resaltar las características clave y los beneficios del producto.
+   - Iconos Visuales: Utiliza iconos para representar las características importantes, como "Durabilidad", "Alta Calidad de Sonido", "Fácil de Usar", etc.
+
+4. **Precio y Promociones:**
+   - Precio Claro: Muestra el precio de manera destacada.
+   - Descuentos y Promociones: Si hay descuentos, promociones o paquetes especiales, asegúrate de que sean visibles y atractivos.
+   - Financiamiento: Si ofreces opciones de financiamiento, menciónalas claramente.
+
+5. **Llamadas a la Acción (CTA):**
+   - Botones de Compra: Botones prominentes como "Añadir al Carrito", "Comprar Ahora" o "Solicitar Presupuesto".
+   - Posicionamiento Estratégico: Asegúrate de que los CTA sean fácilmente accesibles y visibles sin necesidad de desplazarse mucho por la página.
+
+6. **Testimonios y Reseñas:**
+   - Comentarios de Clientes: Muestra reseñas y calificaciones de clientes anteriores para generar confianza.
+   - Fotos de Clientes: Si es posible, incluye fotos de clientes utilizando el producto.
+
+7. **Comparaciones:**
+   - Comparar Productos: Ofrece una tabla de comparación con productos similares para ayudar a los clientes a tomar decisiones informadas.
+
+8. **Disponibilidad y Opciones de Envío:**
+   - Stock Disponible: Indica claramente si el producto está en stock.
+   - Opciones de Envío: Proporciona información sobre las opciones de envío y los tiempos estimados de entrega.
+
+9. **Políticas de Devolución y Garantía:**
+   - Información sobre Devoluciones: Proporciona detalles sobre las políticas
